@@ -19,6 +19,15 @@ or
 python v2.py
 ```
 
+## Environment Variables
+
+```bash
+API_KEY = "REPLACE WITH YOUR API KEY"
+API_SECRET = "REPLACE WITH YOUR API SECRET"
+```
+
+Place the environment variables in a file named `example.env` and rename it to `.env`.
+
 ## v1.py
 
 This version asks for the Artist, Track, And the Album (optional). (It also returns the response from the API, this is useful incase you want to check if the scrobble was successful or not.)

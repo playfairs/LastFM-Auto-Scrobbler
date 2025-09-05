@@ -1,0 +1,5 @@
+.env
+lastfm_session.txt
+__pycache__
+.DS_Store
+.vscode
